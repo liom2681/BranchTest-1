@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-While working!!!
-
-Modification
-=======
 
 While working!!!
 
 Modification done!!!
->>>>>>> amendTest
+
